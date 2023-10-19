@@ -167,3 +167,4 @@ int print_binary(va_list types, char buffer[],
         }
         return (count);
 }
+// by Edmund and Obed
